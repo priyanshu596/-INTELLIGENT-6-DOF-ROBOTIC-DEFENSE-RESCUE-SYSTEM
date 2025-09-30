@@ -31,15 +31,6 @@ R.L implementation/
 
 ---
 
-## ⚙️ Requirements
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-````
-
----
-
 ## 🚀 Usage Instructions
 
 1. **Start CoppeliaSim** and import the Niryo One robotic arm into the environment.
