@@ -28,6 +28,9 @@ R.L implementation/
 └── inference.py             # Run trained PPO model for testing
 
 ````
+Install dependencies:
+pip install -r requirements.txt
+````
 
 ---
 
