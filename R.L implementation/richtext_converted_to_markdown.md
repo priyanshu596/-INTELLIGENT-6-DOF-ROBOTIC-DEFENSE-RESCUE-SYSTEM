@@ -42,9 +42,9 @@ R.L implementation/
 
 Install dependencies:
 
-''''
+```bash
 pip install -r requirements.txt
-
+````
 
 ---
 
@@ -95,4 +95,5 @@ python drone_detection/drone_detection.py
 * Sim-to-real transfer for deploying the trained RL agent on the physical Niryo One arm.
 
 ```
+
 
