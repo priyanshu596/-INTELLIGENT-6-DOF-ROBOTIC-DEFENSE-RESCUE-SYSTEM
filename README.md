@@ -110,6 +110,3 @@ INTELLIGENT-6-DOF-ROBOTIC-DEFENSE-RESCUE-SYSTEM/
 - Field testing with healthcare and disaster management agencies  
 ```
 
-
-
-Do you also want me to add a **simple ASCII-style workflow diagram** (like “Drone → Detection → RL Agent → Niryo One Arm → Action”) to visually show how the system works?
