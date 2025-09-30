@@ -1,4 +1,4 @@
-Got it! I’ve cleaned up your README content, removed all unnecessary escapes and formatting errors, and structured it properly so it’s **ready to copy-paste directly into GitHub**.
+Got it! Let’s make it **fully clean, properly formatted, and copy-paste ready** for GitHub without any markdown errors or extra escape characters. Here’s the corrected `README.md` for your `R.L implementation` folder:
 
 ---
 
@@ -50,8 +50,6 @@ pip install -r requirements.txt
 
 ## 🚀 Usage Instructions
 
-Follow these steps to run the simulation and train the RL agent:
-
 1. **Start CoppeliaSim** and import the Niryo One robotic arm into the environment.
 2. **Check the Niryo One API** to ensure it is running properly.
 3. **Import the quadcopter (drone)** into the simulation environment.
@@ -67,8 +65,6 @@ pip install -r requirements.txt
 ```bash
 python drone_moving/drone_moving.py
 ```
-
-The drone will start moving in the environment.
 
 7. **Train the PPO agent** controlling the Niryo One arm:
 
@@ -88,7 +84,7 @@ python drone_detection/drone_detection.py
 
 * `envs/env.py` defines the custom observation and action space for the RL environment.
 * `inference/inference.py` can be used to run the trained PPO model for testing or evaluation.
-* Ensure the CoppeliaSim simulation is running before executing any Python scripts.
+* Make sure the CoppeliaSim simulation is running before executing any Python scripts.
 
 ---
 
@@ -100,9 +96,3 @@ python drone_detection/drone_detection.py
 
 ```
 
----
-
-If you want, I can also **create a polished root README** for your **entire repository**, linking this RL module, drone detection, and Niryo One setup, so your GitHub repo looks professional and complete.  
-
-Do you want me to do that next?
-```
