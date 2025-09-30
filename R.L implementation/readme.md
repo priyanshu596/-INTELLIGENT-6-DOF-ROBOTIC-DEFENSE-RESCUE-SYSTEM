@@ -1,4 +1,5 @@
-Got it! Let’s make it **fully clean, properly formatted, and copy-paste ready** for GitHub without any markdown errors or extra escape characters. Here’s the corrected `README.md` for your `R.L implementation` folder:
+INTELLIGENT 6-DOF ROBOTIC 
+DEFENSE & RESCUE SYSTEM
 
 ---
 
