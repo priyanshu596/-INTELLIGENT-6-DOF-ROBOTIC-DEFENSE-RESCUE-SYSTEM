@@ -38,6 +38,8 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+ls -la
 🚀 Usage Instructions
 Follow these steps to run the simulation and train the RL agent:
 
