@@ -29,12 +29,6 @@ R.L implementation/
 
 
 
-
-Install dependencies:
-````
-pip install -r requirements.txt
-````
-
 ---
 
 ## 🚀 Usage Instructions
