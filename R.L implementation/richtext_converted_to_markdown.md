@@ -32,14 +32,6 @@ R.L implementation/
 ---
 
 ## ⚙️ Requirements
-
-- Python 3.8+  
-- PyTorch  
-- Stable-Baselines3  
-- Gym  
-- OpenCV  
-- NumPy  
-
 Install dependencies:
 
 ```bash
