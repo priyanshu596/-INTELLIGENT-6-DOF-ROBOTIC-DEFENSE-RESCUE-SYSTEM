@@ -1,19 +1,5 @@
-# INTELLIGENT-6-DOF-ROBOTIC-DEFENSE-RESCUE-SYSTEM
-Intelligent 6-DOF robotic defense &amp; rescue system using Niryo One, RL, and VLLMs for drone tracking, search &amp; rescue, and autonomous medical assistance.
 
-Got it ✅
 
-So for your **main README**, instead of repeating RL usage instructions, you want it to:
-
-* Act as a **project overview**
-* Explain the **idea, motivation, innovation, uniqueness, architecture, impact**
-* Serve as a **high-level entry point** to your repo (while the `R.L implementation` README is more technical).
-
-Here’s a polished **main `README.md`** that you can copy-paste directly:
-
----
-
-```markdown
 # 🛡️ Intelligent 6-DOF Robotic Defense & Rescue System
 
 This repository contains the source code, reinforcement learning modules, and supporting documentation for the **Intelligent 6-DOF Robotic Defense & Rescue System** developed for **Smart India Hackathon 2025** under the theme *Robotics and Drones*.  
@@ -25,21 +11,21 @@ Our system integrates **robotics, reinforcement learning, and computer vision** 
 ## 🌟 Core Idea
 
 Modern emergencies demand fast, intelligent, and safe responses. Human-only intervention is risky and often delayed.  
-This project aims to fill that gap with a **robotic system** that combines:  
+This project addresses that gap with a **robotic system** that combines:  
 
-- **Defense & Perimeter Monitoring**: Drone tracking and object detection.  
-- **Search & Rescue**: Gesture and voice-based supervision for field deployment.  
-- **Medical Assistance**: Autonomous delivery of essential supplies in rural and disaster-hit areas.  
+- **Defense & Perimeter Monitoring**: Drone tracking and object detection  
+- **Search & Rescue**: Gesture and voice-based supervision for field deployment  
+- **Medical Assistance**: Autonomous delivery of essential supplies in rural and disaster-hit areas  
 
 ---
 
 ## 💡 Key Innovations
 
-- **3-in-1 Solution** → Medical Aid + Search & Rescue + Perimeter Monitoring.  
-- **Hybrid Control** → Fully autonomous execution with optional human supervision.  
-- **RL + Vision-Language Models** → Natural language task processing and safe task decomposition.  
-- **Scalable Hardware** → Niryo One robotic arm with modular NEMA-17 extensions.  
-- **Connectivity** → WiFi + LoRa (LoRaWAN) for last-mile communication.  
+- **3-in-1 Solution** → Medical Aid + Search & Rescue + Perimeter Monitoring  
+- **Hybrid Control** → Fully autonomous execution with optional human supervision  
+- **RL + Vision-Language Models** → Natural language task processing and safe task decomposition  
+- **Scalable Hardware** → Niryo One robotic arm with modular NEMA-17 extensions  
+- **Connectivity** → WiFi + LoRa (LoRaWAN) for last-mile communication  
 
 ---
 
@@ -100,10 +86,10 @@ INTELLIGENT-6-DOF-ROBOTIC-DEFENSE-RESCUE-SYSTEM/
 
 ## 🌍 Impact
 
-- **Lives Saved Faster**: Reduces response delays in disasters.  
-- **Responder Safety**: Minimizes risk by enabling remote-controlled operations.  
-- **Healthcare Equity**: Bridges last-mile healthcare gaps in rural areas.  
-- **Scalable & Affordable**: ~50% cost reduction compared to conventional systems.  
+- **Lives Saved Faster**: Reduces response delays in disasters  
+- **Responder Safety**: Minimizes risk by enabling remote-controlled operations  
+- **Healthcare Equity**: Bridges last-mile healthcare gaps in rural areas  
+- **Scalable & Affordable**: ~50% cost reduction compared to conventional systems  
 
 ---
 
@@ -124,6 +110,6 @@ INTELLIGENT-6-DOF-ROBOTIC-DEFENSE-RESCUE-SYSTEM/
 - Field testing with healthcare and disaster management agencies  
 ```
 
----
 
 
+Do you also want me to add a **simple ASCII-style workflow diagram** (like “Drone → Detection → RL Agent → Niryo One Arm → Action”) to visually show how the system works?
